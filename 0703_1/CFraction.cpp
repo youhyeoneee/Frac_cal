@@ -16,6 +16,7 @@ Fraction::Fraction(int num_, int deno_)//생성자
 		cout << exception << "<---입력" << endl;
 		cout << "Input Error!! Plz Retry.." << endl;
 		exit(101);
+
 	}
 }
 //Fraction a;
